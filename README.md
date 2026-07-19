@@ -2,7 +2,7 @@
 
 A small Java application that polls a live market data API for near-real-time
 prices, queues the results with timestamps, and a companion Python script
-that turns that output into a line chart — built to help non-technical
+that turns that output into a line chart built to help non-technical
 stakeholders track how a market value changes over time without needing to
 read raw numbers.
 
